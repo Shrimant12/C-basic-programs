@@ -42,7 +42,7 @@ int main(int argc, char *argv[])
 			}
 			else
 			{
-				printf("C is greates\n");
+				printf("C is greatest\n");
 			}	
 		
 		}
